@@ -1,0 +1,38 @@
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+*.dll
+*.pdb
+*.cache
+*.log
+
+# Test results
+TestResult*/
+*.trx
+*.coverage
+*.coveragexml
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+project.lock.json
+*.nuget.props
+*.nuget.targets
+
+# Others
+*.dbmdl
+*.bak
+*.vsidx
+*.ide
+*.tmp

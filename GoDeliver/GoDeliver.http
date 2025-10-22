@@ -1,0 +1,6 @@
+@GoDeliver_HostAddress = http://localhost:5245
+
+GET {{GoDeliver_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
